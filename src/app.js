@@ -7,6 +7,7 @@ import {
   notFoundHandler,
 } from "./middlewares/error.middleware.js";
 import categoryRoutes from "./routes/category.routes.js";
+import productRoutes from "./routes/product.routes.js";
 
 // Express chạy từ trên xuống dưới
 export const app = express();
@@ -16,11 +17,11 @@ export const app = express();
 app.use(cors());
 
 // parse dữ liệu JSON và dữ liệu form gửi từ client vào req.body
-// Khi client gửi dữ liệu dạng JSON (ví dụ: gửi thông tin tạo user mới), 
+// Khi client gửi dữ liệu dạng JSON (ví dụ: gửi thông tin tạo user mới),
 // dòng này giúp server "đọc hiểu" và biến nó thành object trong req.body
 // Nếu không có dòng này, req.body sẽ là undefined.
 app.use(express.json());
-app.use(express.urlencoded({ extended: true }));    // extended: true --> Sẽ giúp đọc được dữ liệu các object lồng nhau
+app.use(express.urlencoded({ extended: true })); // extended: true --> Sẽ giúp đọc được dữ liệu các object lồng nhau
 
 // log
 // Camera giám sát, ghi lại log mỗi khi có ai truy cập.
@@ -33,6 +34,7 @@ app.use(responseWrapper);
 // Routes
 // API End points
 app.use("/api/categories", categoryRoutes);
+app.use("/api/products", productRoutes);
 
 // Error Handler
 app.use(notFoundHandler);

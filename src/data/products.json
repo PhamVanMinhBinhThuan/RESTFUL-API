@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro 16 M3 Max",
+    "price": 3499,
+    "desc": "Ultimate pro laptop with M3 Max chip, 16-inch Liquid Retina XDR display, and 22 hours of battery life."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24 Ultra",
+    "price": 1299,
+    "desc": "AI-powered smartphone with titanium frame, 200MP camera system, and built-in S Pen."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 348,
+    "desc": "Industry-leading noise canceling wireless headphones with crystal clear hands-free calling."
+  },
+  {
+    "id": 4,
+    "name": "Logitech MX Master 3S",
+    "price": 99,
+    "desc": "Performance ergonomic mouse with 8K DPI tracking and quiet clicks for productivity."
+  },
+  {
+    "id": 5,
+    "name": "Keychron Q1 Pro Keyboard",
+    "price": 199,
+    "desc": "Custom wireless mechanical keyboard with QMK/VIA support and full aluminum body."
+  },
+  {
+    "id": 6,
+    "name": "PlayStation 5 Slim",
+    "price": 499,
+    "desc": "Next-generation gaming console with ultra-high-speed SSD and ray tracing support."
+  },
+  {
+    "id": 7,
+    "name": "Apple Watch Ultra 2",
+    "price": 799,
+    "desc": "Rugged and capable smartwatch designed for outdoor adventures and endurance training."
+  },
+  {
+    "id": 8,
+    "name": "Dell UltraSharp 27 Monitor",
+    "price": 580,
+    "desc": "27-inch 4K USB-C Hub monitor with IPS Black technology and 98% DCI-P3 color coverage."
+  },
+  {
+    "id": 9,
+    "name": "Fujifilm X100VI Camera",
+    "price": 1599,
+    "desc": "Premium compact digital camera with 40MP sensor and classic retro design."
+  },
+  {
+    "id": 10,
+    "name": "Herman Miller Aeron Chair",
+    "price": 1450,
+    "desc": "The benchmark for ergonomic office seating with breathable Pellicle suspension."
+  },
+  {
+    "id": 11,
+    "name": "iPad Air M2",
+    "price": 599,
+    "desc": "Thin and light tablet with the powerful M2 chip and all-day battery life."
+  },
+  {
+    "id": 12,
+    "name": "Marshall Stanmore III Speaker",
+    "price": 379,
+    "desc": "Home Bluetooth speaker with a wide soundstage and iconic vintage design."
+  },
+  {
+    "id": 13,
+    "name": "DJI Mini 4 Pro Drone",
+    "price": 759,
+    "desc": "Lightweight camera drone under 249g with 4K/60fps HDR video and obstacle sensing."
+  },
+  {
+    "id": 14,
+    "name": "Nike Air Jordan 1 High",
+    "price": 180,
+    "desc": "Classic basketball sneakers featuring premium leather and the iconic Wings logo."
+  },
+  {
+    "id": 15,
+    "name": "Kindle Paperwhite Signature",
+    "price": 189,
+    "desc": "Waterproof e-reader with wireless charging, auto-adjusting light, and 32 GB storage."
+  },
+  {
+    "id": 16,
+    "name": "Breville Barista Express",
+    "price": 699,
+    "desc": "All-in-one espresso machine with built-in grinder for third-wave specialty coffee at home."
+  },
+  {
+    "id": 17,
+    "name": "GoPro HERO12 Black",
+    "price": 399,
+    "desc": "Waterproof action camera with 5.3K60 video, HyperSmooth 6.0 stabilization, and HDR."
+  },
+  {
+    "id": 18,
+    "name": "Dyson V15 Detect Vacuum",
+    "price": 749,
+    "desc": "Cordless vacuum cleaner with laser illumination to reveal microscopic dust."
+  },
+  {
+    "id": 19,
+    "name": "Yeti Rambler 20 oz Tumbler",
+    "price": 35,
+    "desc": "Stainless steel vacuum insulated tumbler with MagSlider lid to keep drinks hot or cold."
+  },
+  {
+    "id": 20,
+    "name": "Nintendo Switch OLED",
+    "price": 349,
+    "desc": "Gaming console featuring a vibrant 7-inch OLED screen and enhanced audio."
+  }
+]
